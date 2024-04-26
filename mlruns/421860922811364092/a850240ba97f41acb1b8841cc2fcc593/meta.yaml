@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/421860922811364092/a850240ba97f41acb1b8841cc2fcc593/artifacts
+end_time: 1714081579956
+entry_point_name: ''
+experiment_id: '421860922811364092'
+lifecycle_stage: active
+run_id: a850240ba97f41acb1b8841cc2fcc593
+run_name: marvelous-doe-877
+run_uuid: a850240ba97f41acb1b8841cc2fcc593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1714081573673
+status: 3
+tags: []
+user_id: User
